@@ -1,0 +1,42 @@
+My first day, doing Introduction to JS
+  I started today with Introduct to github
+Learnt what github is - a verson control system used to collaborate and track code changes.
+learnt about key git concepts
+Repository: A folder where Git tracks your project and its history.
+Clone: Make a copy of a remote repository on your computer.
+Stage: Tell Git which changes you want to save next.
+Commit: Save a snapshot of your staged changes.
+Branch: Work on different versions or features at the same time.
+Merge: Combine changes from different branches.
+Pull: Get the latest changes from a remote repository.
+Push: Send your changes to a remote repository.
+
+I also learnt about some git commands from the video in the resources, though i didnt master all commands,
+i did understand the basic ones.
+init to initialize, pull to save form remote to local , push to save from local to remote, commit to save 
+a snapshot.
+
+As part of my day 1, i also delved into understanding HTML basics.
+HTML meaning hypertext markup language is the most common language usde to develop web pages.
+I covered lesson on tags (headings, paragraphs, lists and links)
+<head> Introductory content</head>
+<h1> Most important heading </h1> <h6> least important heading </h6>
+<p> paragraph </p> <ol> ordered list </ol> <ul> unordered list  </ul>
+<a href="link goes here > Placeholder </a>
+<b> bold text </b> <br> break
+<ul> underline </ul>
+<table> table </table> <tr> table row </tr>
+
+I also got an understanding of the general structure of an html document, from the head which mostly contains
+background information, main body for the main content to be displayed , then footer.
+
+I equally took a look at semantic html (The meaningful tags) , tags that explain their meaning, 
+this is crucial for maintainance, accessibility and search engine optimization.
+
+some examples of semantic tags
+<header> introductory content and navigation links
+<nav> section for navigation links, found in the header tag
+<main> main contemt of the document or web page
+<section> related content of the same theme or ssubject, eg a chapter
+<article> a self contained composition , eg a blog post
+<footer> closing content.
