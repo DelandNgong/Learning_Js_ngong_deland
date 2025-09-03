@@ -19,3 +19,7 @@ a snapshot.
 As part of my day 1, i also delved into understanding HTML basics.
 HTML meaning hypertext markup language is the most common language usde to develop web pages.
 I covered lesson on tags (headings, paragraphs, lists and links)
+<head> Introductory content</head>
+<h1> Most important heading </h1> <h6> least important heading </h6>
+<p> paragraph </p> <ol> ordered list </ol> <ul> unordered list  </ul>
+<a href="link goes here > Placeholder </a>
