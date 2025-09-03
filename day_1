@@ -23,3 +23,6 @@ I covered lesson on tags (headings, paragraphs, lists and links)
 <h1> Most important heading </h1> <h6> least important heading </h6>
 <p> paragraph </p> <ol> ordered list </ol> <ul> unordered list  </ul>
 <a href="link goes here > Placeholder </a>
+
+I also got an understanding of the general structure of an html document, from the head which mostly contains
+background information, main body for the main content to be displayed , then footer.
