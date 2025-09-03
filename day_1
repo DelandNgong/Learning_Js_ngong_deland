@@ -26,3 +26,6 @@ I covered lesson on tags (headings, paragraphs, lists and links)
 
 I also got an understanding of the general structure of an html document, from the head which mostly contains
 background information, main body for the main content to be displayed , then footer.
+
+I equally took a look at semantic html (The meaningful tags) , tags that explain their meaning, 
+this is crucial for maintainance, accessibility and search engine optimization.
